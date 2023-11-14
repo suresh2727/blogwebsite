@@ -1,2 +1,1 @@
 # blogwebsite
-simple blog website.
