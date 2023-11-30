@@ -1,2 +1,2 @@
 # blogwebsite
-Comming Soon.................................................
+Comming Soon.
