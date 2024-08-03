@@ -1,2 +1,2 @@
 # blogwebsite
-It is live..............
+It is live.
